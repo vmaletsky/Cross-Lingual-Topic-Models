@@ -1,0 +1,8 @@
+*.bz2
+*.vec
+*.json
+*.bin
+/fastText
+/thesis_document
+/.ipynb_checkpoints
+/pathAlignment
